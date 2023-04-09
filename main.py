@@ -10,4 +10,4 @@ if __name__ == '__main__':
     animes, ratings = utils.get_rating_ani(data)
     #charts.generate_pie_chart(animes, ratings)
     charts.generat_bar_chart(animes, ratings)
-    # No necesitas la grafica de pie, puesto que no muestra bien las diferrencias
+    # No necesitas la grafica de pie, puesto que no muestra bien las diferencias
