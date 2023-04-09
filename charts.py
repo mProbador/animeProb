@@ -6,9 +6,7 @@ def generate_pie_chart(labels, values):
   ax.axis('equal')
   plt.show()
 
-'''
 def generate_bar_chart(labels, values):
   fig, ax = plt.subplots()
   ax.bar(labels, values)
   plt.show()
-'''
